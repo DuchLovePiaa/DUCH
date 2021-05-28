@@ -3,6 +3,7 @@
 // @version         0.1
 // @description     5/28/2021, 00:01:00 PM
 // @author        	พชร พูนทวีสุขะทรัพย์
+// @grant           ระวังตัวไว้ให้ดี
 // @downloadURL     https://raw.githubusercontent.com/DuchLovePiaa/DUCH/main/Click_Approve.js
 // @updateURL       https://raw.githubusercontent.com/DuchLovePiaa/DUCH/main/Click_Approve.js
 // ==/UserScript==
